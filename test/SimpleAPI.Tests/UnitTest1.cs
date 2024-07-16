@@ -7,6 +7,6 @@ public class UnitTest1
     public void GetReturnsCorrectNumber()
     {
         var returnValue = controller.Get(1);
-        Assert.Equal("sandee", returnValue);
+        Assert.Equal("sandeep", returnValue);
     }
 }

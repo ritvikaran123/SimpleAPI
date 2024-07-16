@@ -110,3 +110,4 @@ C:\simpleapi\test\SimpleAPI.Tests\obj\Debug\net8.0\refint\SimpleAPI.Tests.dll
 C:\simpleapi\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.pdb
 C:\simpleapi\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.genruntimeconfig.cache
 C:\simpleapi\test\SimpleAPI.Tests\obj\Debug\net8.0\ref\SimpleAPI.Tests.dll
+C:\simpleapi\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.sourcelink.json
