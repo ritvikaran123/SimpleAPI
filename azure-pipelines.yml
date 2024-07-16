@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: 'sandeepAgent'
+pool: 'sandeepAgent'
+ 
 
 variables:
   solution: '**/*.sln'
