@@ -21,7 +21,7 @@ steps:
     projects: '**/*Test/*.csproj'
     arguments: '--configuration $(buildConfiguration)'
 
-steps:
+
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
