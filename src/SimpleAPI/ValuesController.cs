@@ -14,7 +14,7 @@ namespace SimpleAPI
         // GET: api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "valuell1f", "valuekj2o" };
+            return new string[] { "sandeep karan", "valuekj2o" };
         }
        [HttpGet("lis")]
         // GET: api/values/5
