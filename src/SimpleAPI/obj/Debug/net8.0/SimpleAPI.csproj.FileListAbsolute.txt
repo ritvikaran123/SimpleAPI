@@ -17,6 +17,7 @@ C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.AssemblyInfo.cs
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.csproj.CoreCompileInputs.cache
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,4 +32,3 @@ C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\refint\SimpleAPI.dll
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.pdb
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.genruntimeconfig.cache
 C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\ref\SimpleAPI.dll
-C:\simpleapi\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json
